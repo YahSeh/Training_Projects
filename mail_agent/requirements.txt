@@ -1,0 +1,7 @@
+O365>=2.0.26
+requests>=2.31
+scikit-learn>=1.2
+joblib>=1.3
+transformers>=4.35
+torch>=2.0
+twilio>=8.0
